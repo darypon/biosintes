@@ -10,7 +10,8 @@ background-size: cover;
 }
 .karti{
   position:relative;
-  left:500px;
+  left:350px;
+  bottom:75px;  
   margin-left:auto;
   margin-right:auto;
 }
