@@ -8,3 +8,9 @@ background-attachment: fixed;
 -o-background-size: cover;
 background-size: cover;
 }
+.karti{
+  position:relative;
+  left:500px;
+  margin-left:auto;
+  margin-right:auto;
+}
