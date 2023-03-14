@@ -11,7 +11,46 @@ background-size: cover;
 .karti{
   position:relative;
   left:350px;
-  bottom:75px;  
-  margin-left:auto;
+bottom:75px;  margin-left:auto;
   margin-right:auto;
+}
+ #navbar {
+       position:relative;
+right:-350px;
+        list-style-type: none;
+        width: 600px;
+      }
+      #navbar li {
+        border-bottom: 1px solid #666;
+      }
+      #navbar a {
+        background-color: #a3e9a4;
+        color: #fff;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 0px solid #33ADFF;
+        display: block;}
+.legend{
+position:relative;
+left:650px;
+bottom:800px;
+margin-left:auto;
+margin-right:auto;
+}
+.sss{
+position:relative;
+left:250px;
+bottom:50px;
+margin-left:auto;
+margin-right:auto;
+}
+#boy{
+color:white;
+text-align:center;
+width:450px;
+position:relative;
+left:450px;
+top:0px;
+align:center;
 }
