@@ -12,7 +12,9 @@ background-size: cover;
   position:relative;
   left:350px;
 bottom:75px;  margin-left:auto;
-  margin-right:auto;
+  margin-
+
+right:auto;
 }
  #navbar {
        position:relative;
@@ -46,6 +48,30 @@ margin-left:auto;
 margin-right:auto;
 }
 #boy{
+color:white;
+text-align:center;
+width:450px;
+position:relative;
+left:450px;
+}
+.lll{
+position:relative;
+left:-100px;
+bottom:-15px;
+margin-left:auto;
+margin-right:auto;
+}
+
+#gg{
+color:white;
+text-align:center;
+width:450px;
+position:relative;
+left:450px;
+top:0px;
+align:center;
+} 
+#vv{
 color:white;
 text-align:center;
 width:450px;
